@@ -373,6 +373,8 @@ main, .button, .demo-step, .faq-items summary, .checksum summary { scroll-margin
 }
 .back-to-top[hidden] { display: none; }
 .footer>span:last-child { font-size: 12px; color: var(--muted); }
+.contact-note { font-size: 12px; line-height: 1.6; color: var(--muted); text-align: center; text-wrap: balance; }
+.contact-inline { color: var(--accent); text-decoration: underline; text-underline-offset: .2em; }
 
 /* Align the visible content, rather than the section's empty top padding.
    Native anchors retain smooth scrolling, URL hashes and browser history. */

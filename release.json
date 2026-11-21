@@ -1,23 +1,22 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.19",
-  "tag": "v0.1.0-beta.19",
+  "version": "0.1.0-beta.20",
+  "tag": "v0.1.0-beta.20",
   "prerelease": true,
-  "publishedAt": "2026-11-21T19:49:16Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.19",
+  "publishedAt": "2026-11-21T23:14:13Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.20",
   "installer": {
-    "name": "Aether_0.1.0-beta.19_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.19/Aether_0.1.0-beta.19_x64-setup.exe",
-    "bytes": 13111808,
-    "sha256": "4e67a4301cf15d903bee0d4cecc9b7281f9d0b16716b6875ea4835322e9004ab"
+    "name": "Aether_0.1.0-beta.20_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.20/Aether_0.1.0-beta.20_x64-setup.exe",
+    "bytes": 13123584,
+    "sha256": "2d852e64b1f565d6078774f7169b288d9a1a7a62ee18df40b97fdbf43eb6cf05"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.19/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.20/SHA256SUMS.txt",
   "changes": [
-    "Поиск текста запускается во всех каталогах сразу и показывает варианты в одном списке.",
-    "Добавлен режим двух колонок с перелистыванием для TXT, EPUB и FB2.",
-    "Обновлено оформление карточки книги и панели читалки.",
-    "Верхняя рамка окна Windows 11 подстраивается под светлую или тёмную тему Aether.",
-    "Доработана загрузка обложек книг и постеров фильмов."
+    "Добавлен каталог PRO Books. Из него проверено скачивание и открытие трёх романов «Метро».",
+    "В общем поиске варианты с файлами показываются первыми. Платные предложения, отрывки и карточки без файлов вынесены отдельно.",
+    "Во вкладке «Файлы» появились ссылки для ручного скачивания «Последнего желания» и трёх романов «Метро». Скачанный FB2 или ZIP можно добавить через «Выбрать файлы».",
+    "Доступность Fantasy Worlds зависит от сети. Для «Последнего желания» даны два адреса источника."
   ],
-  "verifiedAt": "2026-11-21T23:25:27.272Z"
+  "verifiedAt": "2026-11-21T23:55:42.542Z"
 }

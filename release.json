@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.22",
-  "tag": "v0.1.0-beta.22",
+  "version": "0.1.0-beta.23",
+  "tag": "v0.1.0-beta.23",
   "prerelease": true,
-  "publishedAt": "2026-11-22T17:45:40Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.22",
+  "publishedAt": "2026-11-22T22:18:26Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.23",
   "installer": {
-    "name": "Aether_0.1.0-beta.22_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.22/Aether_0.1.0-beta.22_x64-setup.exe",
-    "bytes": 13119488,
-    "sha256": "3d99a29b9645330af509db873c64db423c98844feebd7dc16cf58e6184fd3bfd"
+    "name": "Aether_0.1.0-beta.23_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.23/Aether_0.1.0-beta.23_x64-setup.exe",
+    "bytes": 13130240,
+    "sha256": "de04f9e1e4bbadb7b500e68b82d261ed627f9a8ac53f66b3ebfefd733571cab3"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.22/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.23/SHA256SUMS.txt",
   "changes": [
-    "Таймер в «Учёбе» стал компактнее. Время, управление и статистика сеансов собраны в одной карточке.",
-    "Карта активности занимает меньше места, а длительность темы отображается в часах и минутах.",
-    "Вкладки и карточки в «Играх», «Фильмах» и «Книгах» реагируют на наведение так же, как в «Учёбе».",
-    "Верхняя панель окна совпадает по цвету с боковой навигацией. У кнопок управления окном новые иконки."
+    "Восстановлен доступ к каталогам книг, фильмов и игр и синхронизации Steam через прежний код доступа.",
+    "Gemini для «Учёбы» подключается отдельным личным API-ключом.",
+    "Если у книги нет текста, действие «Читать» открывает вкладку «Файлы», где можно найти текст или выбрать файл.",
+    "Исправлено перекрытие панели читалки и диалогов верхней панелью окна Windows."
   ],
-  "verifiedAt": "2026-11-22T17:46:10.628Z"
+  "verifiedAt": "2026-11-22T22:18:56.189Z"
 }

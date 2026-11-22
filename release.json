@@ -1,22 +1,21 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.20",
-  "tag": "v0.1.0-beta.20",
+  "version": "0.1.0-beta.21",
+  "tag": "v0.1.0-beta.21",
   "prerelease": true,
-  "publishedAt": "2026-11-21T23:14:13Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.20",
+  "publishedAt": "2026-11-22T11:53:04Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.21",
   "installer": {
-    "name": "Aether_0.1.0-beta.20_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.20/Aether_0.1.0-beta.20_x64-setup.exe",
+    "name": "Aether_0.1.0-beta.21_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.21/Aether_0.1.0-beta.21_x64-setup.exe",
     "bytes": 13123584,
-    "sha256": "2d852e64b1f565d6078774f7169b288d9a1a7a62ee18df40b97fdbf43eb6cf05"
+    "sha256": "9e840e8cecbd864adbf5c98d4ec49985c6335886299ab28fba2361ed5dbc00c0"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.20/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.21/SHA256SUMS.txt",
   "changes": [
-    "Добавлен каталог PRO Books. Из него проверено скачивание и открытие трёх романов «Метро».",
-    "В общем поиске варианты с файлами показываются первыми. Платные предложения, отрывки и карточки без файлов вынесены отдельно.",
-    "Во вкладке «Файлы» появились ссылки для ручного скачивания «Последнего желания» и трёх романов «Метро». Скачанный FB2 или ZIP можно добавить через «Выбрать файлы».",
-    "Доступность Fantasy Worlds зависит от сети. Для «Последнего желания» даны два адреса источника."
+    "Верхнее меню и список курсов оформлены в стиле других разделов Aether.",
+    "Карточка текущего курса показывает изученные темы, прогресс и дедлайн. Таймер и история сеансов доступны из курса.",
+    "Вкладки тем, тестовых заданий и чата занимают всю ширину блока."
   ],
-  "verifiedAt": "2026-11-21T23:55:42.542Z"
+  "verifiedAt": "2026-11-22T11:53:31.345Z"
 }

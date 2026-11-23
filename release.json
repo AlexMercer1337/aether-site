@@ -1,20 +1,22 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.25",
-  "tag": "v0.1.0-beta.25",
+  "version": "0.1.0-beta.26",
+  "tag": "v0.1.0-beta.26",
   "prerelease": true,
-  "publishedAt": "2026-11-23T13:06:05Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.25",
+  "publishedAt": "2026-11-23T17:07:27Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.26",
   "installer": {
-    "name": "Aether_0.1.0-beta.25_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.25/Aether_0.1.0-beta.25_x64-setup.exe",
-    "bytes": 13147136,
-    "sha256": "629138fd4ea01f00cdbfdd842ee4edf6617f1fba05308a132c3e2dfa6c22913c"
+    "name": "Aether_0.1.0-beta.26_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.26/Aether_0.1.0-beta.26_x64-setup.exe",
+    "bytes": 13149696,
+    "sha256": "cb8d3c8082b4415fb0539076c25e15b02bd221f0541a72d6626618458c180402"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.25/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.26/SHA256SUMS.txt",
   "changes": [
-    "Добавлена галочка для установки Microsoft Visual C++ Redistributable x64. На чистой Windows она включена по умолчанию.",
-    "Установщик скачивает пакет с сайта Microsoft и проверяет его цифровую подпись. При наличии подходящей версии загрузка пропускается."
+    "При генерации учебного плана можно указать книгу, главы, оглавление и другие пожелания.",
+    "По желанию Gemini создаёт практическое задание для каждой темы. Задания сохраняются вместе с курсом.",
+    "Кнопка «Изменить параметры» возвращает из предпросмотра к заполненной форме.",
+    "Поля и кнопки формы выровнены. В узком окне кнопки располагаются друг под другом."
   ],
-  "verifiedAt": "2026-11-23T13:06:37.984Z"
+  "verifiedAt": "2026-11-23T17:08:11.702Z"
 }

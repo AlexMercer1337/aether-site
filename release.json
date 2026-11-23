@@ -1,22 +1,20 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.24",
-  "tag": "v0.1.0-beta.24",
+  "version": "0.1.0-beta.25",
+  "tag": "v0.1.0-beta.25",
   "prerelease": true,
-  "publishedAt": "2026-11-23T12:03:26Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.24",
+  "publishedAt": "2026-11-23T13:06:05Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.25",
   "installer": {
-    "name": "Aether_0.1.0-beta.24_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.24/Aether_0.1.0-beta.24_x64-setup.exe",
-    "bytes": 13140480,
-    "sha256": "d02ac9426c2d535faa3fd9c765e015024b1ed869695ab0401b8836d1281daada"
+    "name": "Aether_0.1.0-beta.25_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.25/Aether_0.1.0-beta.25_x64-setup.exe",
+    "bytes": 13147136,
+    "sha256": "629138fd4ea01f00cdbfdd842ee4edf6617f1fba05308a132c3e2dfa6c22913c"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.24/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.25/SHA256SUMS.txt",
   "changes": [
-    "В календаре появились виды месяца и недели. Нажмите на дату, чтобы посмотреть события или добавить новое.",
-    "Укажите рабочие и выходные дни, часы работы и исключения для отдельных дат.",
-    "Ближайшие сеансы чтения сгруппированы по книгам. Поиск помогает найти событие по названию или заметке.",
-    "Добавлены импорт файлов .ics, напоминания и проверка пересечений по времени."
+    "Добавлена галочка для установки Microsoft Visual C++ Redistributable x64. На чистой Windows она включена по умолчанию.",
+    "Установщик скачивает пакет с сайта Microsoft и проверяет его цифровую подпись. При наличии подходящей версии загрузка пропускается."
   ],
-  "verifiedAt": "2026-11-23T12:04:00.709Z"
+  "verifiedAt": "2026-11-23T13:06:37.984Z"
 }

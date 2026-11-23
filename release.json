@@ -1,22 +1,23 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.26",
-  "tag": "v0.1.0-beta.26",
+  "version": "0.1.0-beta.27",
+  "tag": "v0.1.0-beta.27",
   "prerelease": true,
-  "publishedAt": "2026-11-23T17:07:27Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.26",
+  "publishedAt": "2026-11-23T22:58:47Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.27",
   "installer": {
-    "name": "Aether_0.1.0-beta.26_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.26/Aether_0.1.0-beta.26_x64-setup.exe",
-    "bytes": 13149696,
-    "sha256": "cb8d3c8082b4415fb0539076c25e15b02bd221f0541a72d6626618458c180402"
+    "name": "Aether_0.1.0-beta.27_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.27/Aether_0.1.0-beta.27_x64-setup.exe",
+    "bytes": 13164032,
+    "sha256": "d1c501defed36ad3d92da11b8d68664fcc895c4b129424315a9bdafd52a7a82f"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.26/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.27/SHA256SUMS.txt",
   "changes": [
-    "При генерации учебного плана можно указать книгу, главы, оглавление и другие пожелания.",
-    "По желанию Gemini создаёт практическое задание для каждой темы. Задания сохраняются вместе с курсом.",
-    "Кнопка «Изменить параметры» возвращает из предпросмотра к заполненной форме.",
-    "Поля и кнопки формы выровнены. В узком окне кнопки располагаются друг под другом."
+    "До генерации плана можно задать дату начала и дневные лимиты. Дедлайн рассчитывается по выбранной длительности курса.",
+    "Длинные темы распределяются по нескольким занятиям в календаре. Каждое занятие можно перенести отдельно.",
+    "Темы связаны со своими заданиями. Из задач на сегодня можно открыть задание, запустить таймер или отметить тему пройденной.",
+    "К курсу можно привязать книгу и открыть нужную главу или страницу из темы. Для пройденных тем доступно интервальное повторение.",
+    "Планы можно экспортировать в JSON и дублировать как новый курс. Таймер и сводка прогресса размещены рядом с курсом."
   ],
-  "verifiedAt": "2026-11-23T17:08:11.702Z"
+  "verifiedAt": "2026-11-23T22:59:18.479Z"
 }

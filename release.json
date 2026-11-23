@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "version": "0.1.0-beta.23",
-  "tag": "v0.1.0-beta.23",
+  "version": "0.1.0-beta.24",
+  "tag": "v0.1.0-beta.24",
   "prerelease": true,
-  "publishedAt": "2026-11-22T22:18:26Z",
-  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.23",
+  "publishedAt": "2026-11-23T12:03:26Z",
+  "releaseUrl": "https://github.com/AlexMercer1337/aether-releases/releases/tag/v0.1.0-beta.24",
   "installer": {
-    "name": "Aether_0.1.0-beta.23_x64-setup.exe",
-    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.23/Aether_0.1.0-beta.23_x64-setup.exe",
-    "bytes": 13130240,
-    "sha256": "de04f9e1e4bbadb7b500e68b82d261ed627f9a8ac53f66b3ebfefd733571cab3"
+    "name": "Aether_0.1.0-beta.24_x64-setup.exe",
+    "url": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.24/Aether_0.1.0-beta.24_x64-setup.exe",
+    "bytes": 13140480,
+    "sha256": "d02ac9426c2d535faa3fd9c765e015024b1ed869695ab0401b8836d1281daada"
   },
-  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.23/SHA256SUMS.txt",
+  "checksumsUrl": "https://github.com/AlexMercer1337/aether-releases/releases/download/v0.1.0-beta.24/SHA256SUMS.txt",
   "changes": [
-    "Восстановлен доступ к каталогам книг, фильмов и игр и синхронизации Steam через прежний код доступа.",
-    "Gemini для «Учёбы» подключается отдельным личным API-ключом.",
-    "Если у книги нет текста, действие «Читать» открывает вкладку «Файлы», где можно найти текст или выбрать файл.",
-    "Исправлено перекрытие панели читалки и диалогов верхней панелью окна Windows."
+    "В календаре появились виды месяца и недели. Нажмите на дату, чтобы посмотреть события или добавить новое.",
+    "Укажите рабочие и выходные дни, часы работы и исключения для отдельных дат.",
+    "Ближайшие сеансы чтения сгруппированы по книгам. Поиск помогает найти событие по названию или заметке.",
+    "Добавлены импорт файлов .ics, напоминания и проверка пересечений по времени."
   ],
-  "verifiedAt": "2026-11-22T22:18:56.189Z"
+  "verifiedAt": "2026-11-23T12:04:00.709Z"
 }
